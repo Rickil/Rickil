@@ -34,11 +34,7 @@
 *   Programming: C/C++, Python
 *   Technologies: CUDA, Machine Learning, Deep Learning, Computer Vision
 *   Languages: Fluent in English (TOEIC 940PTS)
-
-🌟 Personal Qualities
----------------------
-
-*   Serious, Calm, Sociable, Independent, Dynamic, Punctual
+  
 
 📧 Contact
 ----------
