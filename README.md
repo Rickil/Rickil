@@ -40,8 +40,3 @@
 ----------
 
 *   Email: farhat.yanis@yahoo.fr
-
-🔍 Internship Search
---------------------
-
-*   Seeking a 5-6 month internship starting in early February/March in areas related to Machine Learning, Computer Vision, and Image Processing.
