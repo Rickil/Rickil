@@ -11,6 +11,7 @@
 ---------------------------
 
 *   **Data Engineer Internship** at Investissement Locatif
+*   **Computer Vision Internship** at Nantes Université
 
 🚀 Key Projects
 ---------------
