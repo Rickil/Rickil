@@ -17,7 +17,7 @@
 ---------------
 
 *   **[ Lidar-Hyperspectrale-Image-segmentation](https://github.com/Rickil/pixelClassifier_dataFusionContest)**: A project from the IEEE GRSS Data Fusion Contest 2013 for segmenting an image using hyperspectral and LiDAR data with partial groundtruth ​[](https://github.com/Rickil/pixelClassifier_dataFusionContest).
-    
+*   **[French_national_library_project](https://github.com/Rickil/French_national_library_project)**: A state of the art and benchmark of the existing object detection models to extract features from historical documents (drawings, writings, stamps, prints, photographs)​[](https://github.com/Rickil/French_national_library_project).
 *   **[Deep Learning Projects with Keras](https://github.com/Rickil/keras_deep-learning)**
     
     *   _Infant Brain Segmentation_: Segmenting brain structures in infant MR images using a UNet architecture​[](https://github.com/Rickil/keras_deep-learning)​.
