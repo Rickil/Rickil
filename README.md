@@ -15,17 +15,17 @@
 🚀 Key Projects
 ---------------
 
-*   **[ Lidar-Hyperspectrale-Image-segmentation](https://github.com/Rickil/pixelClassifier_dataFusionContest)**: A project from the IEEE GRSS Data Fusion Contest 2013 for segmenting an image using hyperspectral and LiDAR data with partial groundtruth ​[](https://github.com/Rickil/pixelClassifier_dataFusionContest)​ource】.
+*   **[ Lidar-Hyperspectrale-Image-segmentation](https://github.com/Rickil/pixelClassifier_dataFusionContest)**: A project from the IEEE GRSS Data Fusion Contest 2013 for segmenting an image using hyperspectral and LiDAR data with partial groundtruth ​[](https://github.com/Rickil/pixelClassifier_dataFusionContest).
     
 *   **[Deep Learning Projects with Keras](https://github.com/Rickil/keras_deep-learning)**
     
-    *   _Infant Brain Segmentation_: Segmenting brain structures in infant MR images using a UNet archit​[](https://github.com/Rickil/keras_deep-learning)​ource】.
-    *   _Ship Classification with CNN_: Classifying ships using a custom Convolutional Neural N​[](https://github.com/Rickil/keras_deep-learning)​ource】.
-*   **[CUDA Project](https://github.com/Rickil/CUDA_project)**: Implementing a real-time GPU-based solution to correct image corruption and enhance color through histogram equali​[](https://github.com/Rickil/CUDA_project)​ource】.
+    *   _Infant Brain Segmentation_: Segmenting brain structures in infant MR images using a UNet architecture​[](https://github.com/Rickil/keras_deep-learning)​.
+    *   _Ship Classification with CNN_: Classifying ships using a custom Convolutional Neural N​etwork[](https://github.com/Rickil/keras_deep-learning).
+*   **[CUDA Project](https://github.com/Rickil/CUDA_project)**: Implementing a real-time GPU-based solution to correct image corruption and enhance color through histogram equalization​[](https://github.com/Rickil/CUDA_project)​.
     
-*   **RayTracer**: A C++ project transforming base code into a raymarcher using fr​[](https://github.com/Rickil/RayTracer)​ource】.
+*   **RayTracer**: A C++ project transforming base code into a raymarcher using fr​[](https://github.com/Rickil/RayTracer)​.
     
-*   **[OpenGL Fire Scene with Raytracer](https://github.com/Rickil/POGL)**: Simulating a fire scene using raytracing in ​[](https://github.com/Rickil/POGL)​ource】.
+*   **[OpenGL Fire Scene with Raytracer](https://github.com/Rickil/POGL)**: Simulating a fire scene using raytracing in ​OpenGL[](https://github.com/Rickil/POGL).
     
 
 📚 Skills
