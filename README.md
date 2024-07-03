@@ -5,7 +5,7 @@
 ------------
 
 *   **EPITA - School of Excellence in Computer and Digital Intelligence**
-    *   Specialization in Image Processing, Machine Learning, Computer Vision & Data Science
+    *   Specialization in Image Processing, Computer Vision, Machine Learning & Data Science
 
 🛠️ Professional Experience
 ---------------------------
