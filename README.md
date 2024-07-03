@@ -23,7 +23,7 @@
     *   _Ship Classification with CNN_: Classifying ships using a custom Convolutional Neural N​etwork[](https://github.com/Rickil/keras_deep-learning).
 *   **[CUDA Project](https://github.com/Rickil/CUDA_project)**: Implementing a real-time GPU-based solution to correct image corruption and enhance color through histogram equalization​[](https://github.com/Rickil/CUDA_project)​.
     
-*   **RayTracer**: A C++ project transforming base code into a raymarcher using fr​[](https://github.com/Rickil/RayTracer)​.
+*   **[Raytracing](https://github.com/Rickil/RayTracer)**: A C++ project to create images od 3D scenes using raytracing or raymarching​[](https://github.com/Rickil/RayTracer)​.
     
 *   **[OpenGL Fire Scene with Raytracer](https://github.com/Rickil/POGL)**: Simulating a fire scene using raytracing in ​OpenGL[](https://github.com/Rickil/POGL).
     
