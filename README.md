@@ -33,7 +33,8 @@
 ---------
 
 *   Programming: C/C++, Python
-*   Technologies: CUDA, Machine Learning, Deep Learning, Computer Vision
+*   Technologies: CUDA, Pytorch/Tensorflow
+*   Computer Vision Skills: Object detection/segmentation, Image classification, OpenCV/scikit
 *   Languages: Fluent in English (TOEIC 940PTS)
   
 
