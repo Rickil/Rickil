@@ -15,7 +15,7 @@
 🚀 Key Projects
 ---------------
 
-*   **[Pixel Classifier Data Fusion Contest](https://github.com/Rickil/pixelClassifier_dataFusionContest)**: A project from the IEEE GRSS Data Fusion Contest 2013 for classifying pixels using hyperspectral and LiDAR ​[](https://github.com/Rickil/pixelClassifier_dataFusionContest)​ource】.
+*   **[ Lidar-Hyperspectrale-Image-segmentation](https://github.com/Rickil/pixelClassifier_dataFusionContest)**: A project from the IEEE GRSS Data Fusion Contest 2013 for segmenting an image using hyperspectral and LiDAR data with partial groundtruth ​[](https://github.com/Rickil/pixelClassifier_dataFusionContest)​ource】.
     
 *   **[Deep Learning Projects with Keras](https://github.com/Rickil/keras_deep-learning)**
     
