@@ -1,4 +1,4 @@
-👨‍💻 Yanis Farhat - Master's Degree Student in Computer Engineering
+👨‍💻 Yanis Farhat - Machine Learning Engineer
 ====================================================================
 
 🎓 Education
@@ -27,16 +27,8 @@
 *   **[Raytracing](https://github.com/Rickil/RayTracer)**: A C++ project to create images of 3D scenes using raytracing or raymarching​[](https://github.com/Rickil/RayTracer)​.
     
 *   **[OpenGL Fire Scene with Raytracer](https://github.com/Rickil/POGL)**: Simulating a fire scene using raytracing in ​OpenGL[](https://github.com/Rickil/POGL).
-    
 
-📚 Skills
----------
-
-*   Programming: C/C++, Python
-*   Technologies: CUDA, Pytorch/Tensorflow
-*   Computer Vision Skills: Object detection/segmentation, Image classification, OpenCV/scikit
-*   Languages: Fluent in English (TOEIC 940PTS)
-  
+*   **[Job Application Portal](https://github.com/Rickil/JobApplicationPortal)**: A web app for posting job offers, managing applications, and matching resumes to job descriptions using sentiment analysis[](https://github.com/Rickil/JobApplicationPortal).
 
 📧 Contact
 ----------
