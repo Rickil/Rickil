@@ -28,7 +28,7 @@
     
 *   **[OpenGL Fire Scene with Raytracer](https://github.com/Rickil/POGL)**: Simulating a fire scene using raytracing in ​OpenGL[](https://github.com/Rickil/POGL).
 
-*   **[Job Application Portal](https://github.com/Rickil/JobApplicationPortal)**: A web app for posting job offers, managing applications, and matching resumes to job descriptions using sentiment analysis[](https://github.com/Rickil/JobApplicationPortal).
+*   **[Job Application Portal](https://github.com/Rickil/JobApplicationPortal)**: A web app for posting job offers, managing applications, and matching resumes to job descriptions using NLP and sentiment analysis[](https://github.com/Rickil/JobApplicationPortal).
 
 📧 Contact
 ----------
