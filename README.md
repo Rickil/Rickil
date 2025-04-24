@@ -18,9 +18,9 @@
 
 *   **[ Lidar-Hyperspectrale-Image-segmentation](https://github.com/Rickil/pixelClassifier_dataFusionContest)**: A project from the IEEE GRSS Data Fusion Contest 2013 for segmenting an image using hyperspectral and LiDAR data with partial groundtruth ​[](https://github.com/Rickil/pixelClassifier_dataFusionContest).
 *   **[French national library project](https://github.com/Rickil/pfeeApp)**: A state of the art and benchmark of the existing object detection models to extract features from historical documents (drawings, writings, stamps, prints, photographs)​. This project was done in collaboration with the French National Library.
-*   **[Deep Learning Projects with Keras](https://github.com/Rickil/keras_deep-learning)**
+*   **[3D Brain MRI Segmentaion & kaggle competition](https://github.com/Rickil/keras_deep-learning)**
     
-    *   _Infant Brain Segmentation_: Segmenting brain structures in infant MR images using a UNet architecture​[](https://github.com/Rickil/keras_deep-learning)​.
+    *   _Brain MRI Segmentation_: Segmenting brain structures in infant MR images using a UNet architecture​[](https://github.com/Rickil/keras_deep-learning)​.
     *   _Ship Classification with CNN_: Classifying ships using a custom Convolutional Neural N​etwork[](https://github.com/Rickil/keras_deep-learning).
 *   **[CUDA Project](https://github.com/Rickil/CUDA_project)**: Implementing a real-time GPU-based solution to correct image corruption and enhance color through histogram equalization​[](https://github.com/Rickil/CUDA_project)​.
     
