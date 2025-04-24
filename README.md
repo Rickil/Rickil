@@ -9,9 +9,8 @@
 
 🛠️ Professional Experience
 ---------------------------
-
-*   **Data Engineer Internship** at Investissement Locatif
 *   **Computer Vision Internship** at Nantes Université
+*   **Data Engineer Internship** at Investissement Locatif
 
 🚀 Key Projects
 ---------------
