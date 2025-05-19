@@ -1,4 +1,4 @@
-👨‍💻 Yanis Farhat - Machine Learning Engineer
+👨‍💻 Yanis Farhat - AI Engineer
 ====================================================================
 
 🎓 Education
@@ -30,6 +30,9 @@
 *   **[Job Application Portal](https://github.com/Rickil/JobApplicationPortal)**: A web app for posting job offers, managing applications, and matching resumes to job descriptions using NLP and sentiment analysis[](https://github.com/Rickil/JobApplicationPortal).
 
 * **[MiniSklearn](https://github.com/Rickil/MiniSklearn)**: MiniSklearn is a project where I implemented core machine learning models — including Logistic Regression, Decision Trees, Random Forests, KMeans, and MLP — using only NumPy. It's a way to put theory into practice by building everything from the ground up: gradient descent, impurity metrics, backpropagation, and more — no external ML libraries involved.[](https://github.com/Rickil/MiniSklearn).
+
+* **[Papers_Implementation](https://github.com/Rickil/papers_implementation)**: This repository contains faithful and clean implementations of influential deep learning research papers. The goal is to reproduce PyTorch implementations that strictly follow the original papers[](https://github.com/Rickil/papers_implementation).
+
 
 📧 Contact
 ----------
