@@ -1,17 +1,3 @@
-👨‍💻 Yanis Farhat - AI Engineer
-====================================================================
-
-🎓 Education
-------------
-
-*   **EPITA - School of Excellence in Computer and Digital Intelligence**
-    *   Specialization in Image Processing, Computer Vision, Machine Learning & Data Science
-
-🛠️ Professional Experience
----------------------------
-*   **Computer Vision Internship** at Nantes Université
-*   **Data Engineer Internship** at Investissement Locatif
-
 🚀 Key Projects
 ---------------
 
