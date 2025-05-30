@@ -19,6 +19,10 @@
 
 * **[Papers_Implementation](https://github.com/Rickil/papers_implementation)**: This repository contains faithful and clean implementations of influential deep learning research papers. The goal is to reproduce PyTorch implementations that strictly follow the original papers[](https://github.com/Rickil/papers_implementation).
 
+* **[42sh](https://github.com/Rickil/42sh)**: A custom Unix shell built from scratch in C, supporting input parsing, scripting, file redirection, and command execution, with a modular and testable design[](https://github.com/Rickil/42sh).
+
+* **[OPIChat](https://github.com/Rickil/opichat)**: A lightweight IRC-inspired chat application in C featuring a custom client/server architecture using sockets and epoll for concurrent connection handling[](https://github.com/Rickil/opichat).
+
 
 📧 Contact
 ----------
