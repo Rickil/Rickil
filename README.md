@@ -22,6 +22,7 @@
 * **[42sh](https://github.com/Rickil/42sh)**: A custom Unix shell built from scratch in C, supporting input parsing, scripting, file redirection, and command execution, with a modular and testable design[](https://github.com/Rickil/42sh).
 
 * **[OPIChat](https://github.com/Rickil/opichat)**: A lightweight IRC-inspired chat application in C featuring a custom client/server architecture using sockets and epoll for concurrent connection handling[](https://github.com/Rickil/opichat).
+* **[MyIDE](https://github.com/Rickil/PING-IDE)**: MyIDE is an integrated development environment that provides a modern, feature-rich coding experience. It combines a Java backend with a JavaScript/HTML frontend to create a versatile IDE that supports multiple programming languages including Java and C++[](https://github.com/Rickil/PING-IDE).
 
 
 📧 Contact
